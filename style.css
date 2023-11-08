@@ -11,6 +11,9 @@ h2{
 body{
     font-size: 25px;
     background-color: #E0FFFF;
+    margin: 10px;
+    padding: 10px;
+    border: solid color blue;
 }
 
 img{
