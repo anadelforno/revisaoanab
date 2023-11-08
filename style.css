@@ -12,3 +12,9 @@ body{
     font-size: 25px;
     background-color: #E0FFFF;
 }
+
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
